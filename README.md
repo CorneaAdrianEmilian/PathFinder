@@ -1,5 +1,5 @@
 # PathFinder
-Project ideea taken from: https://www.codingame.com/ide/454954535c115deff386822e863cfb2123dcb069 
+Project challenge ideea taken from: https://www.codingame.com/ide/454954535c115deff386822e863cfb2123dcb069 
 
 In this puzzle, you are given a grid representing a golf course.
 On each course is a certain amount of balls and an equal amount of holes. The objective is to find the route for each ball to a different hole without their paths ever crossing.
