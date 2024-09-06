@@ -1,5 +1,11 @@
 # PathFinder
-Project challenge ideea taken from: https://www.codingame.com/ide/454954535c115deff386822e863cfb2123dcb069 
+
+This is a project that uses as main solution concepts such as Backtracking and Recursion.
+
+
+The challenge ideea is inspired from: https://www.codingame.com/ide/454954535c115deff386822e863cfb2123dcb069 
+
+Please find the below description:
 
 In this puzzle, you are given a grid representing a golf course.
 On each course is a certain amount of balls and an equal amount of holes. The objective is to find the route for each ball to a different hole without their paths ever crossing.
